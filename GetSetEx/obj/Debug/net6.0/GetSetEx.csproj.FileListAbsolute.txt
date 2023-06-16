@@ -1,0 +1,15 @@
+C:\Users\IJAS\source\repos\GetSetEx\bin\Debug\net6.0\GetSetEx.exe
+C:\Users\IJAS\source\repos\GetSetEx\bin\Debug\net6.0\GetSetEx.deps.json
+C:\Users\IJAS\source\repos\GetSetEx\bin\Debug\net6.0\GetSetEx.runtimeconfig.json
+C:\Users\IJAS\source\repos\GetSetEx\bin\Debug\net6.0\GetSetEx.dll
+C:\Users\IJAS\source\repos\GetSetEx\bin\Debug\net6.0\GetSetEx.pdb
+C:\Users\IJAS\source\repos\GetSetEx\obj\Debug\net6.0\GetSetEx.csproj.AssemblyReference.cache
+C:\Users\IJAS\source\repos\GetSetEx\obj\Debug\net6.0\GetSetEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IJAS\source\repos\GetSetEx\obj\Debug\net6.0\GetSetEx.AssemblyInfoInputs.cache
+C:\Users\IJAS\source\repos\GetSetEx\obj\Debug\net6.0\GetSetEx.AssemblyInfo.cs
+C:\Users\IJAS\source\repos\GetSetEx\obj\Debug\net6.0\GetSetEx.csproj.CoreCompileInputs.cache
+C:\Users\IJAS\source\repos\GetSetEx\obj\Debug\net6.0\GetSetEx.dll
+C:\Users\IJAS\source\repos\GetSetEx\obj\Debug\net6.0\refint\GetSetEx.dll
+C:\Users\IJAS\source\repos\GetSetEx\obj\Debug\net6.0\GetSetEx.pdb
+C:\Users\IJAS\source\repos\GetSetEx\obj\Debug\net6.0\GetSetEx.genruntimeconfig.cache
+C:\Users\IJAS\source\repos\GetSetEx\obj\Debug\net6.0\ref\GetSetEx.dll

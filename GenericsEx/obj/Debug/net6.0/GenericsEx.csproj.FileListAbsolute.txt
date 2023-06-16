@@ -1,0 +1,15 @@
+C:\Users\IJAS\source\repos\GenericsEx\bin\Debug\net6.0\GenericsEx.exe
+C:\Users\IJAS\source\repos\GenericsEx\bin\Debug\net6.0\GenericsEx.deps.json
+C:\Users\IJAS\source\repos\GenericsEx\bin\Debug\net6.0\GenericsEx.runtimeconfig.json
+C:\Users\IJAS\source\repos\GenericsEx\bin\Debug\net6.0\GenericsEx.dll
+C:\Users\IJAS\source\repos\GenericsEx\bin\Debug\net6.0\GenericsEx.pdb
+C:\Users\IJAS\source\repos\GenericsEx\obj\Debug\net6.0\GenericsEx.csproj.AssemblyReference.cache
+C:\Users\IJAS\source\repos\GenericsEx\obj\Debug\net6.0\GenericsEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IJAS\source\repos\GenericsEx\obj\Debug\net6.0\GenericsEx.AssemblyInfoInputs.cache
+C:\Users\IJAS\source\repos\GenericsEx\obj\Debug\net6.0\GenericsEx.AssemblyInfo.cs
+C:\Users\IJAS\source\repos\GenericsEx\obj\Debug\net6.0\GenericsEx.csproj.CoreCompileInputs.cache
+C:\Users\IJAS\source\repos\GenericsEx\obj\Debug\net6.0\GenericsEx.dll
+C:\Users\IJAS\source\repos\GenericsEx\obj\Debug\net6.0\refint\GenericsEx.dll
+C:\Users\IJAS\source\repos\GenericsEx\obj\Debug\net6.0\GenericsEx.pdb
+C:\Users\IJAS\source\repos\GenericsEx\obj\Debug\net6.0\GenericsEx.genruntimeconfig.cache
+C:\Users\IJAS\source\repos\GenericsEx\obj\Debug\net6.0\ref\GenericsEx.dll
