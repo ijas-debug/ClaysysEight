@@ -1,0 +1,15 @@
+C:\Users\IJAS\source\repos\DecisionMakingEx\bin\Debug\net6.0\DecisionMakingEx.exe
+C:\Users\IJAS\source\repos\DecisionMakingEx\bin\Debug\net6.0\DecisionMakingEx.deps.json
+C:\Users\IJAS\source\repos\DecisionMakingEx\bin\Debug\net6.0\DecisionMakingEx.runtimeconfig.json
+C:\Users\IJAS\source\repos\DecisionMakingEx\bin\Debug\net6.0\DecisionMakingEx.dll
+C:\Users\IJAS\source\repos\DecisionMakingEx\bin\Debug\net6.0\DecisionMakingEx.pdb
+C:\Users\IJAS\source\repos\DecisionMakingEx\obj\Debug\net6.0\DecisionMakingEx.csproj.AssemblyReference.cache
+C:\Users\IJAS\source\repos\DecisionMakingEx\obj\Debug\net6.0\DecisionMakingEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IJAS\source\repos\DecisionMakingEx\obj\Debug\net6.0\DecisionMakingEx.AssemblyInfoInputs.cache
+C:\Users\IJAS\source\repos\DecisionMakingEx\obj\Debug\net6.0\DecisionMakingEx.AssemblyInfo.cs
+C:\Users\IJAS\source\repos\DecisionMakingEx\obj\Debug\net6.0\DecisionMakingEx.csproj.CoreCompileInputs.cache
+C:\Users\IJAS\source\repos\DecisionMakingEx\obj\Debug\net6.0\DecisionMakingEx.dll
+C:\Users\IJAS\source\repos\DecisionMakingEx\obj\Debug\net6.0\refint\DecisionMakingEx.dll
+C:\Users\IJAS\source\repos\DecisionMakingEx\obj\Debug\net6.0\DecisionMakingEx.pdb
+C:\Users\IJAS\source\repos\DecisionMakingEx\obj\Debug\net6.0\DecisionMakingEx.genruntimeconfig.cache
+C:\Users\IJAS\source\repos\DecisionMakingEx\obj\Debug\net6.0\ref\DecisionMakingEx.dll

@@ -1,0 +1,15 @@
+C:\Users\IJAS\source\repos\ConstructorsEx\bin\Debug\net6.0\ConstructorsEx.exe
+C:\Users\IJAS\source\repos\ConstructorsEx\bin\Debug\net6.0\ConstructorsEx.deps.json
+C:\Users\IJAS\source\repos\ConstructorsEx\bin\Debug\net6.0\ConstructorsEx.runtimeconfig.json
+C:\Users\IJAS\source\repos\ConstructorsEx\bin\Debug\net6.0\ConstructorsEx.dll
+C:\Users\IJAS\source\repos\ConstructorsEx\bin\Debug\net6.0\ConstructorsEx.pdb
+C:\Users\IJAS\source\repos\ConstructorsEx\obj\Debug\net6.0\ConstructorsEx.csproj.AssemblyReference.cache
+C:\Users\IJAS\source\repos\ConstructorsEx\obj\Debug\net6.0\ConstructorsEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IJAS\source\repos\ConstructorsEx\obj\Debug\net6.0\ConstructorsEx.AssemblyInfoInputs.cache
+C:\Users\IJAS\source\repos\ConstructorsEx\obj\Debug\net6.0\ConstructorsEx.AssemblyInfo.cs
+C:\Users\IJAS\source\repos\ConstructorsEx\obj\Debug\net6.0\ConstructorsEx.csproj.CoreCompileInputs.cache
+C:\Users\IJAS\source\repos\ConstructorsEx\obj\Debug\net6.0\ConstructorsEx.dll
+C:\Users\IJAS\source\repos\ConstructorsEx\obj\Debug\net6.0\refint\ConstructorsEx.dll
+C:\Users\IJAS\source\repos\ConstructorsEx\obj\Debug\net6.0\ConstructorsEx.pdb
+C:\Users\IJAS\source\repos\ConstructorsEx\obj\Debug\net6.0\ConstructorsEx.genruntimeconfig.cache
+C:\Users\IJAS\source\repos\ConstructorsEx\obj\Debug\net6.0\ref\ConstructorsEx.dll

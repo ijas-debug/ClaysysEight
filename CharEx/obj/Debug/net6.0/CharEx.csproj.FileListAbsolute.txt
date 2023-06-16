@@ -1,0 +1,15 @@
+C:\Users\IJAS\source\repos\CharEx\bin\Debug\net6.0\CharEx.exe
+C:\Users\IJAS\source\repos\CharEx\bin\Debug\net6.0\CharEx.deps.json
+C:\Users\IJAS\source\repos\CharEx\bin\Debug\net6.0\CharEx.runtimeconfig.json
+C:\Users\IJAS\source\repos\CharEx\bin\Debug\net6.0\CharEx.dll
+C:\Users\IJAS\source\repos\CharEx\bin\Debug\net6.0\CharEx.pdb
+C:\Users\IJAS\source\repos\CharEx\obj\Debug\net6.0\CharEx.csproj.AssemblyReference.cache
+C:\Users\IJAS\source\repos\CharEx\obj\Debug\net6.0\CharEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IJAS\source\repos\CharEx\obj\Debug\net6.0\CharEx.AssemblyInfoInputs.cache
+C:\Users\IJAS\source\repos\CharEx\obj\Debug\net6.0\CharEx.AssemblyInfo.cs
+C:\Users\IJAS\source\repos\CharEx\obj\Debug\net6.0\CharEx.csproj.CoreCompileInputs.cache
+C:\Users\IJAS\source\repos\CharEx\obj\Debug\net6.0\CharEx.dll
+C:\Users\IJAS\source\repos\CharEx\obj\Debug\net6.0\refint\CharEx.dll
+C:\Users\IJAS\source\repos\CharEx\obj\Debug\net6.0\CharEx.pdb
+C:\Users\IJAS\source\repos\CharEx\obj\Debug\net6.0\CharEx.genruntimeconfig.cache
+C:\Users\IJAS\source\repos\CharEx\obj\Debug\net6.0\ref\CharEx.dll
